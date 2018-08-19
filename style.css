@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body {
+	background-color: Peru;
+}
+
+li {
+	list-style: none;
+}
+
+li a {
+	display: block;
+	margin: 5px 5px 5px 5px;
+	padding: 5px 5px;
+	width: 200px;
+	background-color: BurlyWood;
+	color: Black;
+	border-color: Black;
+	text-align: center;
+	text-decoration: none;
+}
+
+li a:hover {
+	background: Wheat;
+}
